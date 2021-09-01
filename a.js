@@ -1,1 +1,1 @@
-console.log(11,22)
+console.log(a)
