@@ -1,1 +1,1 @@
-b
+console.log(a)
